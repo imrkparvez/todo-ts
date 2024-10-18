@@ -5,3 +5,5 @@ A simple, lightweight frontend Todo app built using Vanilla JavaScript and TypeS
 - Adding new todos
 - Marking todos as completed
 - Deleting todos
+
+## Show This project on [Vercel](https://todo-ts-imrkparvez.vercel.app/)
